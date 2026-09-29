@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#edf4f5">
+  <meta name="description" content="Nathan 的私人香水矩阵：按今天的天气与场景选香。">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="N / Scent">
+  <title>N / Scent · Nathan 的香水矩阵</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="./assets/icon-180.png">
+  <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="ambient" aria-hidden="true"></div>
+  <header class="topbar"><a class="brand" href="#today" aria-label="N Scent 首页">N<span>/</span>SCENT</a><div class="owner">NATHAN’S COLLECTION <span class="avatar">N</span></div></header>
+  <main id="main"><div class="boot"><span class="eyebrow">N / SCENT</span><h1>打开你的香气日常</h1><p>正在准备香水矩阵…</p></div></main>
+  <noscript><p class="notice">请在 Safari 设置中启用 JavaScript，再打开香水矩阵。</p></noscript>
+  <nav class="bottom-nav" aria-label="主导航"></nav>
+  <dialog id="detail" aria-label="香水详情"></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <script>
+    if (location.protocol === 'file:') {
+      document.querySelector('.boot').innerHTML = '<span class="eyebrow">N / SCENT</span><h1>请从预览网址打开</h1><p>你现在打开的是电脑文件，香水矩阵需要在网页中运行。</p><p><a class="primary" href="http://127.0.0.1:5173/nathan-fragrance/">打开这台电脑的预览 ↗</a></p><p class="fine">此入口需要电脑上的预览服务保持运行。iPhone 请使用部署后的网站地址。</p>';
+      document.querySelector('.bottom-nav').hidden = true;
+    } else {
+      import('./src/app.js').catch(() => {
+        const boot = document.querySelector('.boot');
+        if (boot) boot.innerHTML = '<span class="eyebrow">N / SCENT</span><h1>页面暂时没有加载成功</h1><p>请联网后刷新重试。你的本机记录不会因此被清除。</p>';
+      });
+    }
+  </script>
+</body>
+</html>
