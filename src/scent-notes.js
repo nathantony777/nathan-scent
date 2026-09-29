@@ -3551,6 +3551,19 @@ export const scentNotes = {
     "sourceLabel": "Dior 香港官网",
     "version": "Cuir Saddle · Eau de Parfum · Y0000167",
     "checkedAt": "2026-09-29"
+  },
+  "dior-y0998025": {
+    "mode": "accords",
+    "accords": [
+      "清凉辛香",
+      "薰衣草",
+      "麝香木质"
+    ],
+    "reason": "品牌列出核心香气，未将它们完整划分为前中后调。",
+    "source": "https://www.dior.com/en_hk/beauty/products/sauvage-eau-forte-Y0998025.html",
+    "sourceLabel": "Dior 香港官网",
+    "version": "Sauvage Eau Forte · 无酒精香氛 · Y0998025",
+    "checkedAt": "2026-09-29"
   }
 };
 

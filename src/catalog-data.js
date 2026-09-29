@@ -6305,7 +6305,7 @@ export const reviewedCatalog = [
       "height": 288,
       "top": -30.8
     },
-    "cn": "旷野男士香精",
+    "cn": "迪奥旷野男士香精",
     "scenes": [
       "晚间出门",
       "凉爽天气试香"
@@ -6357,6 +6357,36 @@ export const reviewedCatalog = [
         "sku": "E000001580",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000235",
+        "sku": "E000001580",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000235",
+        "sku": "E000001581",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000235",
+        "sku": "E000001579",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6368,7 +6398,8 @@ export const reviewedCatalog = [
       "topRatio": 0.157,
       "bottomRatio": 0.884,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥仲夏天堂香水"
   },
   {
     "id": "dior-y0000268",
@@ -6406,7 +6437,8 @@ export const reviewedCatalog = [
       "topRatio": 0.342,
       "bottomRatio": 0.735,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥素馨佳人香精"
   },
   {
     "id": "dior-y0840550",
@@ -6454,6 +6486,36 @@ export const reviewedCatalog = [
         "sku": "C099700686",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0840550",
+        "sku": "C099700686",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0840550",
+        "sku": "C099700392",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0840550",
+        "sku": "C099700416",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6465,7 +6527,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥蒙田沙龙香水"
   },
   {
     "id": "dior-y0742427",
@@ -6512,6 +6575,36 @@ export const reviewedCatalog = [
         "sku": "C099700688",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0742427",
+        "sku": "C099700688",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0742427",
+        "sku": "C099700394",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0742427",
+        "sku": "C099700418",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6523,7 +6616,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥素馨佳人香水"
   },
   {
     "id": "dior-y0750427",
@@ -6570,6 +6664,36 @@ export const reviewedCatalog = [
         "sku": "C099700690",
         "availability": "OutOfStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0750427",
+        "sku": "C099700690",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0750427",
+        "sku": "C099700396",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0750427",
+        "sku": "C099700420",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6581,7 +6705,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥幸运风铃香水"
   },
   {
     "id": "dior-y0997184",
@@ -6609,6 +6734,16 @@ export const reviewedCatalog = [
         "sku": "C099800161",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 80,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997184",
+        "sku": "C099800161",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6620,7 +6755,8 @@ export const reviewedCatalog = [
       "topRatio": 0.348,
       "bottomRatio": 0.724,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥特拉法加香精"
   },
   {
     "id": "dior-y0997181",
@@ -6648,6 +6784,16 @@ export const reviewedCatalog = [
         "sku": "C099700667",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 80,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997181",
+        "sku": "C099700667",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6659,7 +6805,8 @@ export const reviewedCatalog = [
       "topRatio": 0.348,
       "bottomRatio": 0.724,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥蒙田香精"
   },
   {
     "id": "dior-y0958160",
@@ -6705,6 +6852,26 @@ export const reviewedCatalog = [
         "sku": "E000000204",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0958160",
+        "sku": "E000000204",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0958160",
+        "sku": "C099700388",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6716,7 +6883,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥琥珀幽香香水"
   },
   {
     "id": "dior-y0996060",
@@ -6764,6 +6932,36 @@ export const reviewedCatalog = [
         "sku": "C099700695",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996060",
+        "sku": "C099700695",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996060",
+        "sku": "C099700401",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996060",
+        "sku": "C099700425",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6775,7 +6973,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥特拉法加香水"
   },
   {
     "id": "dior-y0997094",
@@ -6821,6 +7020,36 @@ export const reviewedCatalog = [
         "sku": "C099870166",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997094",
+        "sku": "C099870166",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997094",
+        "sku": "C099800164",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997094",
+        "sku": "C099800165",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6832,7 +7061,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥南法假日香水"
   },
   {
     "id": "dior-y0996128",
@@ -6869,6 +7099,26 @@ export const reviewedCatalog = [
         "sku": "C099700403",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996128",
+        "sku": "C099700403",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996128",
+        "sku": "C099700427",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6880,7 +7130,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥辛烈调配香水"
   },
   {
     "id": "dior-y0996344",
@@ -6927,6 +7178,16 @@ export const reviewedCatalog = [
         "sku": "E000000200",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996344",
+        "sku": "C099700430",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6938,7 +7199,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥拉玛香水"
   },
   {
     "id": "dior-y0997153",
@@ -6985,6 +7247,26 @@ export const reviewedCatalog = [
         "sku": "C099870169",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997153",
+        "sku": "C099870169",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997153",
+        "sku": "C099800168",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -6996,7 +7278,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥新风貌香水"
   },
   {
     "id": "dior-y0767550",
@@ -7044,6 +7327,36 @@ export const reviewedCatalog = [
         "sku": "C099700689",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0767550",
+        "sku": "C099700689",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0767550",
+        "sku": "C099700395",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0767550",
+        "sku": "C099700419",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7055,7 +7368,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥墨山繁花香水"
   },
   {
     "id": "dior-y0743427",
@@ -7091,6 +7405,26 @@ export const reviewedCatalog = [
         "sku": "C099800302",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0743427",
+        "sku": "C099800302",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0743427",
+        "sku": "C099800303",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7102,7 +7436,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥倾慕之心香水"
   },
   {
     "id": "dior-y0996013",
@@ -7148,6 +7483,36 @@ export const reviewedCatalog = [
         "sku": "C099700694",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996013",
+        "sku": "C099700694",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996013",
+        "sku": "C099700400",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996013",
+        "sku": "C099700424",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7159,7 +7524,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥歌舞玫姬香水"
   },
   {
     "id": "dior-y0996109",
@@ -7197,6 +7563,26 @@ export const reviewedCatalog = [
         "sku": "C099800306",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996109",
+        "sku": "C099800306",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996109",
+        "sku": "C099800307",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7208,7 +7594,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥牡丹香韵香水"
   },
   {
     "id": "dior-y0996065",
@@ -7255,6 +7642,36 @@ export const reviewedCatalog = [
         "sku": "C099700699",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996065",
+        "sku": "C099700699",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996065",
+        "sku": "C099700405",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996065",
+        "sku": "C099700429",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7266,7 +7683,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥伊甸洛克香水"
   },
   {
     "id": "dior-y0744427",
@@ -7314,6 +7732,26 @@ export const reviewedCatalog = [
         "sku": "C099700702",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0744427",
+        "sku": "C099700408",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0744427",
+        "sku": "C099700432",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7325,7 +7763,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥雾暖茶香香水"
   },
   {
     "id": "dior-y0998027",
@@ -7371,6 +7810,36 @@ export const reviewedCatalog = [
         "sku": "C099800297",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0998027",
+        "sku": "C099800297",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0998027",
+        "sku": "C099800296",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0998027",
+        "sku": "C099800295",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7382,7 +7851,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥祈梦福木香水"
   },
   {
     "id": "dior-y0909280",
@@ -7428,6 +7898,36 @@ export const reviewedCatalog = [
         "sku": "E000000203",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0909280",
+        "sku": "E000000203",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0909280",
+        "sku": "C099700397",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0909280",
+        "sku": "C099700421",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7439,7 +7939,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥暗木幽香香水"
   },
   {
     "id": "dior-y0996414",
@@ -7486,6 +7987,36 @@ export const reviewedCatalog = [
         "sku": "E000000202",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996414",
+        "sku": "E000000202",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996414",
+        "sku": "C099700398",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996414",
+        "sku": "C099700422",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7497,7 +8028,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥木语迷踪香水"
   },
   {
     "id": "dior-y0959160",
@@ -7544,6 +8076,36 @@ export const reviewedCatalog = [
         "sku": "E000000205",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0959160",
+        "sku": "E000000205",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0959160",
+        "sku": "C099700390",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0959160",
+        "sku": "C099700414",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7555,7 +8117,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥银影清木香水"
   },
   {
     "id": "dior-y0786427",
@@ -7593,6 +8156,26 @@ export const reviewedCatalog = [
         "sku": "C099700399",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0786427",
+        "sku": "C099700399",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0786427",
+        "sku": "C099700423",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7604,7 +8187,8 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥紫衣木影香水"
   },
   {
     "id": "dior-y0997185",
@@ -7631,6 +8215,16 @@ export const reviewedCatalog = [
         "sku": "C099800162",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 80,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997185",
+        "sku": "C099800162",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7642,7 +8236,8 @@ export const reviewedCatalog = [
       "topRatio": 0.348,
       "bottomRatio": 0.724,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥幸运风铃香精"
   },
   {
     "id": "dior-y0000089",
@@ -7670,6 +8265,16 @@ export const reviewedCatalog = [
         "sku": "E000000484",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 80,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000089",
+        "sku": "E000000484",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7681,7 +8286,8 @@ export const reviewedCatalog = [
       "topRatio": 0.348,
       "bottomRatio": 0.724,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥银影清木香精"
   },
   {
     "id": "dior-y0997183",
@@ -7709,6 +8315,16 @@ export const reviewedCatalog = [
         "sku": "C099800163",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 80,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997183",
+        "sku": "C099800163",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7720,7 +8336,8 @@ export const reviewedCatalog = [
       "topRatio": 0.348,
       "bottomRatio": 0.724,
       "reviewedAt": "2026-09-29"
-    }
+    },
+    "cn": "迪奥暗木幽香香精"
   },
   {
     "id": "dior-y0000167",
@@ -7767,6 +8384,36 @@ export const reviewedCatalog = [
         "sku": "E000000842",
         "availability": "InStock",
         "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000167",
+        "sku": "E000000842",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000167",
+        "sku": "E000000840",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000167",
+        "sku": "E000000841",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
       }
     ],
     "frame": {
@@ -7778,6 +8425,51 @@ export const reviewedCatalog = [
       "topRatio": 0.1565,
       "bottomRatio": 0.876,
       "reviewedAt": "2026-09-29"
+    },
+    "cn": "迪奥香氛世家马鞍革调香水"
+  },
+  {
+    "id": "dior-y0998025",
+    "brand": "dior",
+    "name": "Sauvage Eau Forte",
+    "concentration": "无酒精香氛",
+    "description": "清凉辛香、薰衣草与麝香木质。",
+    "tags": [
+      "辛香",
+      "麝香"
+    ],
+    "image": "https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Sites-master_dior/default/dw632b21ee/Y0998025/Y0998025_C099800171_E01_RHC.jpg?sw=512",
+    "imageSize": 100,
+    "source": "https://www.dior.com/en_hk/beauty/products/sauvage-eau-forte-Y0998025.html",
+    "checkedAt": "2026-09-29",
+    "quotes": [
+      {
+        "size": 100,
+        "amount": 1350,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/sauvage-eau-forte-C099800171.html",
+        "sku": "C099800171",
+        "availability": "InStock"
+      },
+      {
+        "size": 60,
+        "amount": 990,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/sauvage-eau-forte-C099800170.html",
+        "sku": "C099800170",
+        "availability": "InStock"
+      }
+    ],
+    "frame": {
+      "height": 384.855,
+      "top": -77.227
+    },
+    "cn": "旷野 Eau Forte",
+    "imageBounds": {
+      "topRatio": 0.265625,
+      "bottomRatio": 0.7333333333333333
     }
   }
 ];

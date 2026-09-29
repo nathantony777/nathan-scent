@@ -1,4 +1,4 @@
-const VERSION = 'v1.6.0-r3';
+const VERSION = 'v1.6.1';
 // Include scope so another app on the same GitHub Pages origin keeps its caches.
 const PREFIX = `n-scent:${self.registration.scope}:`;
 const CACHE = PREFIX + VERSION;
