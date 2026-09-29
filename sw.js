@@ -1,4 +1,4 @@
-const VERSION = 'v1.6.0-r2';
+const VERSION = 'v1.6.0-r3';
 // Include scope so another app on the same GitHub Pages origin keeps its caches.
 const PREFIX = `n-scent:${self.registration.scope}:`;
 const CACHE = PREFIX + VERSION;
@@ -7,7 +7,7 @@ const PRODUCT_IMAGE_HOSTS = new Set(['www.dior.com', 'www.chanel.cn', 'www.chloe
 const FILES = ['./', './index.html', './styles.css', './manifest.webmanifest', './src/app.js', './src/scent-notes.js', './src/updates.js', './src/catalog.js', './src/catalog-data.js', './src/data.js', './src/core.js', './src/shopping.js', './src/weather.js', './src/wearing.js', './assets/favicon.svg', './assets/icon-180.png', './assets/icon-192.png', './assets/icon-512.png', './assets/maskable-512.png', './assets/cedrus.png', './assets/gaiac10.jpg', './assets/another13.jpg', './assets/lazy-sunday-morning.jpg', './assets/imagination.avif', './assets/sycomore.jpg'];
 self.addEventListener('install', event => event.waitUntil((async () => {
   const cache = await caches.open(CACHE);
-  try { await cache.addAll(FILES); } catch (error) { await caches.delete(CACHE); throw error; }
+  try { await cache.addAll(FILES.map(path => new Request(path, { cache: 'reload' }))); } catch (error) { await caches.delete(CACHE); throw error; }
 })()));
 self.addEventListener('activate', event => event.waitUntil((async () => {
   for (const key of await caches.keys()) if (key.startsWith(PREFIX) && key !== CACHE && key !== IMAGE_CACHE) await caches.delete(key);
