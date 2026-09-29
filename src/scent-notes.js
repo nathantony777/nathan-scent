@@ -3564,6 +3564,65 @@ export const scentNotes = {
     "sourceLabel": "Dior 香港官网",
     "version": "Sauvage Eau Forte · 无酒精香氛 · Y0998025",
     "checkedAt": "2026-09-29"
+  },
+  "dior-y0749427": {
+    "checkedAt": "2026-09-29",
+    "source": "https://www.dior.cn/zh_cn/beauty/products/Y0749427",
+    "sourceLabel": "Dior 中国官网 · 核心香气",
+    "version": "Sakura · Eau de Parfum · Y0749427",
+    "mode": "accords",
+    "accords": [
+      "樱花",
+      "杏仁"
+    ],
+    "reason": "官网没有完整列出前、中、后调，按核心香气展示，不人为分段。"
+  },
+  "dior-y0000087": {
+    "checkedAt": "2026-09-29",
+    "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000087",
+    "sourceLabel": "Dior 中国官网 · 核心香气",
+    "version": "Rose Star · Eau de Parfum · Y0000087",
+    "mode": "accords",
+    "accords": [
+      "花椒",
+      "千叶玫瑰",
+      "大马士革玫瑰",
+      "果香",
+      "蜜香",
+      "麝香"
+    ],
+    "reason": "官网标注前调花椒、中调玫瑰与果香，但未单列后调；保留核心香气，不补造第三段。"
+  },
+  "dior-y0996027": {
+    "checkedAt": "2026-09-29",
+    "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996027",
+    "sourceLabel": "Dior 中国官网 · 核心香气",
+    "version": "JOY by Dior · Eau de Parfum · Y0996027",
+    "mode": "accords",
+    "accords": [
+      "佛手柑",
+      "橘子",
+      "玫瑰",
+      "茉莉",
+      "檀香木",
+      "麝香"
+    ],
+    "reason": "官网没有完整列出前、中、后调，按核心香气展示，不人为分段。"
+  },
+  "dior-y0997004": {
+    "checkedAt": "2026-09-29",
+    "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997004",
+    "sourceLabel": "Dior 中国官网 · 核心香气",
+    "version": "JOY by Dior · Eau de Parfum Intense · Y0997004",
+    "mode": "accords",
+    "accords": [
+      "柑橘",
+      "玫瑰",
+      "茉莉",
+      "檀香木",
+      "香草"
+    ],
+    "reason": "官网没有完整列出前、中、后调，按核心香气展示，不人为分段。"
   }
 };
 

@@ -8471,5 +8471,342 @@ export const reviewedCatalog = [
       "topRatio": 0.265625,
       "bottomRatio": 0.7333333333333333
     }
+  },
+  {
+    "id": "dior-y0749427",
+    "brand": "dior",
+    "name": "Sakura",
+    "cn": "迪奥落樱轻舞香水",
+    "concentration": "Eau de Parfum",
+    "description": "樱花与杏仁气息，轻盈柔和。",
+    "tags": [
+      "樱花",
+      "杏仁"
+    ],
+    "image": "https://storage-dev-pcd.dior.cn/dior/20250317/WJ5Uo3cuoSB86Qfx1YwPbk.jpg",
+    "imageSize": 200,
+    "source": "https://www.dior.com/en_hk/beauty/products/sakura-Y0749427.html",
+    "checkedAt": "2026-09-29",
+    "quotes": [
+      {
+        "size": 200,
+        "amount": 3950,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/sakura-C099700426.html",
+        "sku": "C099700426",
+        "availability": "InStock",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "size": 100,
+        "amount": 2650,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/sakura-C099700402.html",
+        "sku": "C099700402",
+        "availability": "InStock",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "size": 50,
+        "amount": 1750,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/sakura-C099700696.html",
+        "sku": "C099700696",
+        "availability": "InStock",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0749427",
+        "sku": "C099700426",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0749427",
+        "sku": "C099700402",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0749427",
+        "sku": "C099700696",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      }
+    ],
+    "frame": {
+      "height": 225.44,
+      "top": 9.501
+    },
+    "imageBounds": {
+      "topRatio": 0.06875,
+      "bottomRatio": 0.8671875,
+      "reviewedAt": "2026-09-29"
+    },
+    "imageEvidence": {
+      "source": "https://www.dior.cn/zh_cn/beauty/products/Y0749427",
+      "size": 200,
+      "sku": "C099700426",
+      "url": "https://storage-dev-pcd.dior.cn/dior/20250317/WJ5Uo3cuoSB86Qfx1YwPbk.jpg",
+      "method": "官网所选容量、产品标签货号与主图对应",
+      "checkedAt": "2026-09-29"
+    },
+    "imagePresentation": "official-scene",
+    "imageSource": "https://www.dior.cn/zh_cn/beauty/products/Y0749427"
+  },
+  {
+    "id": "dior-y0000087",
+    "brand": "dior",
+    "name": "Rose Star",
+    "cn": "迪奥瑰语星愿香水",
+    "concentration": "Eau de Parfum",
+    "description": "花椒点缀玫瑰与果香，带有蜜香和麝香余韵。",
+    "tags": [
+      "花椒",
+      "千叶玫瑰",
+      "大马士革玫瑰",
+      "果香",
+      "蜜香",
+      "麝香"
+    ],
+    "image": "https://storage-pcd.dior.cn/dior/20250723/Lg8u1zL3do4M2Euy5mtBEr.jpg",
+    "imageSize": 200,
+    "source": "https://www.dior.com/en_hk/beauty/products/rose-star-Y0000087.html",
+    "checkedAt": "2026-09-29",
+    "quotes": [
+      {
+        "size": 200,
+        "amount": 3950,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/rose-star-E000000231.html",
+        "sku": "E000000231",
+        "availability": "InStock",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "size": 100,
+        "amount": 2650,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/rose-star-E000000232.html",
+        "sku": "E000000232",
+        "availability": "InStock",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "size": 50,
+        "amount": 1750,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/rose-star-E000000411.html",
+        "sku": "E000000411",
+        "availability": "InStock",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "size": 200,
+        "amount": 3850,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000087",
+        "sku": "E000000231",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 100,
+        "amount": 2600,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000087",
+        "sku": "E000000232",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      },
+      {
+        "size": 50,
+        "amount": 1710,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000087",
+        "sku": "E000000411",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      }
+    ],
+    "frame": {
+      "height": 225.794,
+      "top": 9.382
+    },
+    "imageBounds": {
+      "topRatio": 0.06916764361078546,
+      "bottomRatio": 0.8663540445486518,
+      "reviewedAt": "2026-09-29"
+    },
+    "imageEvidence": {
+      "source": "https://www.dior.cn/zh_cn/beauty/products/Y0000087",
+      "size": 200,
+      "sku": "E000000231",
+      "url": "https://storage-pcd.dior.cn/dior/20250723/Lg8u1zL3do4M2Euy5mtBEr.jpg",
+      "method": "官网所选容量、产品标签货号与主图对应",
+      "checkedAt": "2026-09-29"
+    },
+    "imagePresentation": "official-scene",
+    "imageSource": "https://www.dior.cn/zh_cn/beauty/products/Y0000087"
+  },
+  {
+    "id": "dior-y0996027",
+    "brand": "dior",
+    "name": "JOY by Dior",
+    "cn": "迪奥悦之欢香水",
+    "concentration": "Eau de Parfum",
+    "description": "柑橘与花香明亮交织，檀香木和麝香温柔相伴。",
+    "tags": [
+      "佛手柑",
+      "橘子",
+      "玫瑰",
+      "茉莉",
+      "檀香木",
+      "麝香"
+    ],
+    "image": "https://storage-dev-pcd.dior.cn/dior/20250317/BqNNSTXSkduEf1appJjoip.jpg",
+    "imageSize": 90,
+    "source": "https://www.dior.com/en_hk/beauty/products/joy-by-dior-Y0996027.html",
+    "checkedAt": "2026-09-29",
+    "quotes": [
+      {
+        "size": 90,
+        "amount": 1620,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/joy-by-dior-C099600152.html",
+        "sku": "C099600152",
+        "availability": "InStock",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "size": 50,
+        "amount": 1130,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/joy-by-dior-C099600151.html",
+        "sku": "C099600151",
+        "availability": "InStock",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "size": 90,
+        "amount": 1780,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996027",
+        "sku": "C099600152",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      }
+    ],
+    "frame": {
+      "height": 258.296,
+      "top": -14.35
+    },
+    "imageBounds": {
+      "topRatio": 0.15234375,
+      "bottomRatio": 0.84921875,
+      "reviewedAt": "2026-09-29"
+    },
+    "imageEvidence": {
+      "source": "https://www.dior.cn/zh_cn/beauty/products/Y0996027",
+      "size": 90,
+      "sku": "C099600152",
+      "url": "https://storage-dev-pcd.dior.cn/dior/20250317/BqNNSTXSkduEf1appJjoip.jpg",
+      "method": "官网所选容量、产品标签货号与主图对应",
+      "checkedAt": "2026-09-29"
+    },
+    "imageSource": "https://www.dior.cn/zh_cn/beauty/products/Y0996027"
+  },
+  {
+    "id": "dior-y0997004",
+    "brand": "dior",
+    "name": "JOY by Dior",
+    "cn": "迪奥悦之欢璀璨香氛",
+    "concentration": "Eau de Parfum Intense",
+    "description": "明亮柑橘衬托繁花，檀香木与香草更显醇柔。",
+    "tags": [
+      "柑橘",
+      "玫瑰",
+      "茉莉",
+      "檀香木",
+      "香草"
+    ],
+    "image": "https://storage-pcd.dior.cn/dior/20250722/HmPWwWAbbmfQW2SJND7FgG.jpg",
+    "imageSize": 90,
+    "source": "https://www.dior.com/en_hk/beauty/products/joy-by-dior-Y0997004.html",
+    "checkedAt": "2026-09-29",
+    "quotes": [
+      {
+        "size": 90,
+        "amount": 1715,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/joy-by-dior-C099600458.html",
+        "sku": "C099600458",
+        "availability": "InStock",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "size": 50,
+        "amount": 1185,
+        "currency": "HKD",
+        "market": "香港",
+        "source": "https://www.dior.com/en_hk/beauty/products/joy-by-dior-C099600457.html",
+        "sku": "C099600457",
+        "availability": "InStock",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "size": 90,
+        "amount": 1830,
+        "currency": "CNY",
+        "market": "大陆",
+        "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997004",
+        "sku": "C099600458",
+        "availability": "Listed",
+        "checkedAt": "2026-09-29"
+      }
+    ],
+    "frame": {
+      "height": 258.373,
+      "top": -14.187
+    },
+    "imageBounds": {
+      "topRatio": 0.15166666666666667,
+      "bottomRatio": 0.8483333333333334,
+      "reviewedAt": "2026-09-29"
+    },
+    "imageEvidence": {
+      "source": "https://www.dior.cn/zh_cn/beauty/products/Y0997004",
+      "size": 90,
+      "sku": "C099600458",
+      "url": "https://storage-pcd.dior.cn/dior/20250722/HmPWwWAbbmfQW2SJND7FgG.jpg",
+      "method": "官网所选容量、产品标签货号与主图对应",
+      "checkedAt": "2026-09-29"
+    },
+    "imageSource": "https://www.dior.cn/zh_cn/beauty/products/Y0997004"
   }
 ];
